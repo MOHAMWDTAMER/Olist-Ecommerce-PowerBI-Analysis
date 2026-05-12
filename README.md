@@ -28,7 +28,7 @@ This project presents a comprehensive data analysis of the **Olist E-commerce da
 ## 📊 Dashboard Preview
 
 ### 1. Home Page & Navigation
-![Home Page](./Screenshots/Home page.png)
+![Home Page](./Screenshots/Homepage.png)
 
 ### 2. Sales & Revenue Analysis
 ![Sales Analysis](./Screenshots/Sales_Analysis.png)
